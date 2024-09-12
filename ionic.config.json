@@ -1,0 +1,7 @@
+{
+  "name": "Plantilla-Form",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
